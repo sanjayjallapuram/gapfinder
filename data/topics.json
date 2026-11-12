@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Photosynthesis",
+        "subtopics": [
+            "Light reaction",
+            "Calvin cycle",
+            "Limiting factors"
+        ],
+        "exam_weight": 5
+    },
+    {
+        "name": "Cellular Respiration",
+        "subtopics": [
+            "Glycolysis",
+            "Krebs cycle",
+            "Electron transport chain",
+            "Anaerobic respiration"
+        ],
+        "exam_weight": 5
+    },
+    {
+        "name": "Genetics",
+        "subtopics": [
+            "Mendel's laws",
+            "Monohybrid cross",
+            "DNA structure and replication"
+        ],
+        "exam_weight": 5
+    },
+    {
+        "name": "Cell Division",
+        "subtopics": [
+            "Cell cycle and checkpoints",
+            "Mitosis",
+            "Meiosis"
+        ],
+        "exam_weight": 4
+    },
+    {
+        "name": "Ecosystems",
+        "subtopics": [
+            "Food chains and energy flow",
+            "Nutrient cycles",
+            "Ecological pyramids"
+        ],
+        "exam_weight": 3
+    }
+]

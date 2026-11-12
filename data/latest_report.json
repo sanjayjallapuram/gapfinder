@@ -1,0 +1,58 @@
+{
+    "Photosynthesis": {
+        "correct": 0,
+        "total": 2,
+        "mistakes": [
+            "Where does the light\u2011dependent reaction of photosynthesis occur?",
+            "Which enzyme is responsible for fixing carbon dioxide in the Calvin cycle?"
+        ],
+        "score": 0.0,
+        "status": "WEAK",
+        "exam_weight": 5,
+        "priority": 100.0
+    },
+    "Cellular Respiration": {
+        "correct": 0,
+        "total": 2,
+        "mistakes": [
+            "What is the net gain of ATP molecules per glucose molecule during glycolysis?",
+            "During anaerobic respiration in animal muscle cells, pyruvate is primarily converted into which compound?"
+        ],
+        "score": 0.0,
+        "status": "WEAK",
+        "exam_weight": 5,
+        "priority": 100.0
+    },
+    "Genetics": {
+        "correct": 0,
+        "total": 2,
+        "mistakes": [
+            "According to Mendel's law of segregation, what occurs to the two alleles for a trait during gamete formation?",
+            "Which pair of nitrogen bases in DNA is linked by three hydrogen bonds?"
+        ],
+        "score": 0.0,
+        "status": "WEAK",
+        "exam_weight": 5,
+        "priority": 100.0
+    },
+    "Cell Division": {
+        "correct": 2,
+        "total": 2,
+        "mistakes": [],
+        "score": 100.0,
+        "status": "STRONG",
+        "exam_weight": 4,
+        "priority": 24.0
+    },
+    "Ecosystems": {
+        "correct": 1,
+        "total": 2,
+        "mistakes": [
+            "According to the study material, what proportion of energy is transferred from one trophic level to the next in a food chain?"
+        ],
+        "score": 50.0,
+        "status": "MEDIUM",
+        "exam_weight": 3,
+        "priority": 53.0
+    }
+}
